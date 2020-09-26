@@ -6,6 +6,7 @@ def find_element_index(array, value_to_find)
   while array do 
     
     puts 
+    counter += 1 
   
 end 
   
