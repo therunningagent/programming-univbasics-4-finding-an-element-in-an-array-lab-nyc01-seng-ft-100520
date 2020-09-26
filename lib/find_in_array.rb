@@ -13,7 +13,6 @@ def find_element_index(array, value_to_find)
 end 
   count += 1
 end
-puts found_value_index
-end 
+
 
 find_element_index(array, 4)
