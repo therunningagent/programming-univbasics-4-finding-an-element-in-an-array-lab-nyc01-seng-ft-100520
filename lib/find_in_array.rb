@@ -11,9 +11,10 @@ def find_element_index(array, value_to_find)
     
     found_value_index = count 
     
-    counter += 1 
 end 
-  found_value_index
+  count += 1
 end
+found_value_index
+end 
 
 find_element_index(array, 4)
